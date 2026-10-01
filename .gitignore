@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+segmented_customers.csv
+customer_segments.png
